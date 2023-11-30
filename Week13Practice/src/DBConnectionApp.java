@@ -2,7 +2,7 @@
 
 public class DBConnectionApp {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 //		Connection connection = null;
 //		Statement statement = null;
 //		ResultSet resultSet = null;
